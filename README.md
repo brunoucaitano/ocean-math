@@ -1,4 +1,5 @@
 # 🌊 Ocean Math
+![Tela Inicial](screenshot-tela-inicial.jpg)
 
 ## 📝 Sobre o Projeto
 O **Ocean Math** é um jogo educativo desenvolvido em 2018. O objetivo é auxiliar no aprendizado das quatro operações matemáticas fundamentais de uma forma lúdica e divertida.
